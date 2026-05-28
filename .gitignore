@@ -1,0 +1,25 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+
+# Visual Studio
+*.VC.db
+*.VC.opendb
+*.sdf
+*.suo
+*.opensdf
+*.log
+
+# Build files
+*.obj
+*.dll
+*.exe
+*.pdb
+*.lib
+
+# OS files
+.DS_Store
+Thumbs.db

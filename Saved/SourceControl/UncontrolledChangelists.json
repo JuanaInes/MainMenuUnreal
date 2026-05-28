@@ -1,0 +1,50 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/pamayav/Documents/Unreal Projects/Basic_One/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/AM/9YGDW7FMEY1CZD31VUYO11.uasset",
+				"C:/Users/pamayav/Documents/Unreal Projects/Basic_One/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/SX/7UENYUIW74Q6J044BXDY1O.uasset",
+				"C:/Users/pamayav/Documents/Unreal Projects/Basic_One/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/1K/WFQH2XS48YQ248YLDFQUFS.uasset",
+				"C:/Users/pamayav/Documents/Unreal Projects/Basic_One/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/3T/GWP622LCUZZ56J77E6NKDN.uasset",
+				"C:/Users/pamayav/Documents/Unreal Projects/Basic_One/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/0J/PVPQN9M48PYY9BIRISYQL8.uasset",
+				"C:/Users/pamayav/Documents/Unreal Projects/Basic_One/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/O4/KDQD3SMCZ4R7JNKDIIO67J.uasset",
+				"C:/Users/pamayav/Documents/Unreal Projects/Basic_One/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/F/1L/I53I2PI6ETBCYYWR8M1KOQ.uasset",
+				"C:/Users/pamayav/Documents/Unreal Projects/Basic_One/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/6D/H6XZWP2NMA4NV0N8IDM8NF.uasset",
+				"C:/Users/pamayav/Documents/Unreal Projects/Basic_One/Content/ThirdPerson/_GENERATED/pamayav/Box_1EAAE801.uasset",
+				"C:/Users/pamayav/Documents/Unreal Projects/Basic_One/Content/ThirdPerson/_GENERATED/pamayav/Box_A98E2328.uasset",
+				"C:/Users/pamayav/Documents/Unreal Projects/Basic_One/Content/ThirdPerson/_GENERATED/pamayav/Box_BD3ADBA6.uasset",
+				"C:/Users/pamayav/Documents/Unreal Projects/Basic_One/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/K8/AG1QGT2PI8949STSZR85AE.uasset",
+				"C:/Users/pamayav/Documents/Unreal Projects/Basic_One/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/8J/1IFCG94XRZM9U31DPAWCI0.uasset",
+				"C:/Users/pamayav/Documents/Unreal Projects/Basic_One/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/BU/K0F1Q4J8QFADVC3YH0ESOH.uasset",
+				"C:/Users/pamayav/Documents/Unreal Projects/Basic_One/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/L2/CSPBTONGT00VHNR8UUSTKY.uasset",
+				"C:/Users/pamayav/Documents/Unreal Projects/Basic_One/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/AP/4F8J1G28L59ID67FNFF533.uasset",
+				"C:/Users/pamayav/Documents/Unreal Projects/Basic_One/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/2N/ZRFN8QP4TGOSZ11RGLWB3F.uasset",
+				"C:/Users/pamayav/Documents/Unreal Projects/Basic_One/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/56/9GRDLAS41E4RW00RF6AT45.uasset",
+				"C:/Users/pamayav/Documents/Unreal Projects/Basic_One/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/0Y/T6C5LY3TAA025IMEALAO3B.uasset",
+				"C:/Users/pamayav/Documents/Unreal Projects/Basic_One/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/7R/R9K9T96DBS4SP6UJ5ACRVC.uasset",
+				"C:/Users/pamayav/Documents/Unreal Projects/Basic_One/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/JO/E1KZRVZ4RCHSANZ7IG54LN.uasset",
+				"C:/Users/pamayav/Documents/Unreal Projects/Basic_One/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/QQ/IIPGAWMZIS8K498JUM79QQ.uasset",
+				"C:/Users/pamayav/Documents/Unreal Projects/Basic_One/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/O3/M9Q40850YNSJU4QZ89BZ32.uasset",
+				"C:/Users/pamayav/Documents/Unreal Projects/Basic_One/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/81/YV46YYATICV1K3QVZ9NF1Z.uasset",
+				"C:/Users/pamayav/Documents/Unreal Projects/Basic_One/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/BH/UU15LJIZTCLSALV7FD88BQ.uasset",
+				"C:/Users/pamayav/Documents/Unreal Projects/Basic_One/Content/ThirdPerson/_GENERATED/pamayav/Box_D8890357.uasset",
+				"C:/Users/pamayav/Documents/Unreal Projects/Basic_One/Content/ThirdPerson/_GENERATED/pamayav/Cylinder_383F5EFC.uasset",
+				"C:/Users/pamayav/Documents/Unreal Projects/Basic_One/Content/ThirdPerson/_GENERATED/pamayav/Rectangle_197EA528.uasset",
+				"C:/Users/pamayav/Documents/Unreal Projects/Basic_One 5.7/Content/MainMenu_.uasset",
+				"C:/Users/pamayav/Documents/Unreal Projects/Basic_One 5.7/Content/BluePrints/MainMenu_.uasset",
+				"C:/Users/pamayav/Documents/Unreal Projects/Basic_One 5.7/Content/BluePrints/MainMenuController_.uasset",
+				"C:/Users/pamayav/Documents/Unreal Projects/Basic_One 5.7/Content/BluePrints/Widgets/MainMenu/WBP_MainMenu.uasset",
+				"C:/Users/pamayav/Documents/Unreal Projects/Basic_One 5.7/Content/BluePrints/Widgets/MainMenu/WBP_MainMenuBottons.uasset",
+				"C:/Users/pamayav/Documents/Unreal Projects/Basic_One 5.7/Content/ThirdPerson/Lvl_ThirdPerson.umap",
+				"C:/Users/pamayav/Documents/Unreal Projects/Basic_One/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/BN/LKN4IB4C3UPW62GHBEKTIW.uasset",
+				"C:/Users/pamayav/Documents/Unreal Projects/Basic_One/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/UM/1F7R5WQFM2D9KH7A94JFBU.uasset",
+				"C:/Users/pamayav/Documents/Unreal Projects/Basic_One/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/6V/AV0JKCFBVPU58UEBGB0GC0.uasset",
+				"C:/Users/pamayav/Documents/Unreal Projects/Basic_One/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/XM/SN8KJL01L24VVIYC52MNFR.uasset",
+				"C:/Users/pamayav/Documents/Unreal Projects/Basic_One/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/9R/UKIMD8EYGPZFS8OC6GX24A.uasset"
+			]
+		}
+	]
+}
